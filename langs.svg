@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="430" viewBox="0 0 520 430" font-family="Segoe UI,Helvetica,Arial,sans-serif">
+<text x="260" y="24" text-anchor="middle" font-size="16" font-weight="600" fill="#E4572E">Languages across all my projects</text>
+<polygon points="260.0,165.0 320.6,200.0 320.6,270.0 260.0,305.0 199.4,270.0 199.4,200.0" fill="none" stroke="#8B8B9A" stroke-opacity="0.25"/>
+<polygon points="260.0,95.0 381.2,165.0 381.2,305.0 260.0,375.0 138.8,305.0 138.8,165.0" fill="none" stroke="#8B8B9A" stroke-opacity="0.25"/>
+<line x1="260" y1="235" x2="260.0" y2="95.0" stroke="#8B8B9A" stroke-opacity="0.35"/>
+<text x="260.0" y="63.0" text-anchor="middle" font-size="13" font-weight="600" fill="#E4572E">53%</text>
+<text x="260.0" y="79.0" text-anchor="middle" font-size="13" fill="#8B8B9A">Python</text>
+<line x1="260" y1="235" x2="381.2" y2="165.0" stroke="#8B8B9A" stroke-opacity="0.35"/>
+<text x="405.5" y="147.0" text-anchor="start" font-size="13" font-weight="600" fill="#E4572E">23%</text>
+<text x="405.5" y="163.0" text-anchor="start" font-size="13" fill="#8B8B9A">Kotlin</text>
+<line x1="260" y1="235" x2="381.2" y2="305.0" stroke="#8B8B9A" stroke-opacity="0.35"/>
+<text x="405.5" y="315.0" text-anchor="start" font-size="13" font-weight="600" fill="#E4572E">15%</text>
+<text x="405.5" y="331.0" text-anchor="start" font-size="13" fill="#8B8B9A">JavaScript</text>
+<line x1="260" y1="235" x2="260.0" y2="375.0" stroke="#8B8B9A" stroke-opacity="0.35"/>
+<text x="260.0" y="399.0" text-anchor="middle" font-size="13" font-weight="600" fill="#E4572E">7%</text>
+<text x="260.0" y="415.0" text-anchor="middle" font-size="13" fill="#8B8B9A">TypeScript</text>
+<line x1="260" y1="235" x2="138.8" y2="305.0" stroke="#8B8B9A" stroke-opacity="0.35"/>
+<text x="114.5" y="315.0" text-anchor="end" font-size="13" font-weight="600" fill="#E4572E">&lt;1%</text>
+<text x="114.5" y="331.0" text-anchor="end" font-size="13" fill="#8B8B9A">HTML</text>
+<line x1="260" y1="235" x2="138.8" y2="165.0" stroke="#8B8B9A" stroke-opacity="0.35"/>
+<text x="114.5" y="147.0" text-anchor="end" font-size="13" font-weight="600" fill="#E4572E">&lt;1%</text>
+<text x="114.5" y="163.0" text-anchor="end" font-size="13" fill="#8B8B9A">CSS</text>
+<polygon points="260.0,95.0 313.5,204.1 294.0,254.7 260.0,254.3 257.8,236.3 259.3,234.6" fill="#E4572E" fill-opacity="0.25" stroke="#E4572E" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="260.0" cy="95.0" r="3.5" fill="#E4572E"/>
+<circle cx="313.5" cy="204.1" r="3.5" fill="#E4572E"/>
+<circle cx="294.0" cy="254.7" r="3.5" fill="#E4572E"/>
+<circle cx="260.0" cy="254.3" r="3.5" fill="#E4572E"/>
+<circle cx="257.8" cy="236.3" r="3.5" fill="#E4572E"/>
+<circle cx="259.3" cy="234.6" r="3.5" fill="#E4572E"/>
+</svg>

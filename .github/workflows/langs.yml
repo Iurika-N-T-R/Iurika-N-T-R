@@ -1,0 +1,28 @@
+# Redraws langs.svg from every repo I own. GITHUB_TOKEN can't see private repos,
+# so this needs a LANGS_TOKEN secret (fine-grained PAT, all repos, Metadata: read-only).
+name: langs
+
+on:
+  schedule: [{ cron: "0 4 * * 1" }]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  chart:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Draw chart
+        env:
+          GH_TOKEN: ${{ secrets.LANGS_TOKEN }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then echo "::warning::LANGS_TOKEN not set, skipping"; exit 0; fi
+          python3 langs.py
+      - name: Commit if changed
+        run: |
+          git diff --quiet langs.svg && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update language chart" && git push

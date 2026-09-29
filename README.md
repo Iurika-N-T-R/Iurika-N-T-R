@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:1B1B2F,55:2E2E4D,100:E4572E&text=Iurika%20NTR&fontColor=F4EFE6&fontSize=64&fontAlignY=36&desc=Android%20apps%20%C2%B7%20AI%20automation%20%C2%B7%20creative%20tools&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Iurika NTR" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:1B1B2F,55:2E2E4D,100:E4572E&text=Iurika%20NTR&fontColor=F4EFE6&fontSize=64&fontAlignY=36&desc=Android%20apps%20%C2%B7%20automations%20%26%20agents%20%C2%B7%20creative%20tools&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Iurika NTR" />
 
 <p align="center">
   <a href="https://github.com/Iurika-N-T-R">
-    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=30&duration=2600&pause=900&color=E4572E&center=true&vCenter=true&width=680&height=50&lines=Hello+world%2C+I'm+Iurika+%E2%9C%92%EF%B8%8F;I+build+offline-first+Android+apps.;I+automate+the+boring+parts+with+AI+agents.;I+write+tools+for+digital+artists." alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=30&duration=2600&pause=900&color=E4572E&center=true&vCenter=true&width=680&height=50&lines=Hello+world%2C+I'm+Iurika+%E2%9C%92%EF%B8%8F;I+build+offline-first+Android+apps.;I+build+automations+%26+agents+for+the+boring+parts.;I+write+tools+for+digital+artists." alt="typing intro" />
   </a>
 </p>
 
@@ -24,13 +24,13 @@ I'm a developer who also draws, so I build the software I wish I had.
 
 On **Android**, I make apps that work fully offline: no account, no cloud,
 your data stays on your phone and syncs over your own Wi-Fi.
-On the **automation** side, I build AI agents and n8n workflows that take
+I also build **automations & agents** with n8n that take
 repetitive work off people's hands: bots, lead pipelines, batch image
 generation. And as a **digital artist**, I write tools for other artists,
 like converting Photoshop brushes for mobile painting apps.
 
 - 📱 &nbsp;Offline-first Android apps with Kotlin & Jetpack Compose
-- 🤖 &nbsp;AI agents, Telegram bots and n8n automations
+- 🤖 &nbsp;Automations & agents: n8n workflows, Telegram bots
 - 🖌️ &nbsp;Tools and pipelines for digital artists
 - 🔒 &nbsp;Privacy by default: no tracking, no ads
 
@@ -40,7 +40,7 @@ like converting Photoshop brushes for mobile painting apps.
 ```yaml
 name:     Iurika
 builds:   Android apps
-          AI agents & automations
+          automations & agents
           tools for artists
 codes:    Kotlin, Python,
           TypeScript
@@ -73,7 +73,7 @@ draws in: Photoshop, Illustrator,
 | **Languages** | <img src="https://skillicons.dev/icons?i=kotlin,python,ts,js,java,go,bash&theme=dark" height="40" alt="languages" /> |
 | **Mobile** | <img src="https://skillicons.dev/icons?i=androidstudio,react&theme=dark" height="40" alt="mobile" /> &nbsp;<sub>Android · Jetpack Compose · React Native</sub> |
 | **Web** | <img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind,nodejs,fastapi,symfony,electron&theme=dark" height="40" alt="web" /> |
-| **Automation & AI** | <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/Telegram_bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram bots" /> |
+| **Automation** | <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" /> <img src="https://img.shields.io/badge/Telegram_bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram bots" /> |
 | **Data** | <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" height="40" alt="data" /> |
 | **Ops** | <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github&theme=dark" height="40" alt="ops" /> |
 | **Studio** | <img src="https://skillicons.dev/icons?i=ps,ai,figma,blender&theme=dark" height="40" alt="studio" /> |
@@ -81,8 +81,11 @@ draws in: Photoshop, Illustrator,
 ### `p.04` · activity
 
 <p align="center">
+  <img src="langs.svg" alt="Languages across all my projects" />
+</p>
+
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Iurika-N-T-R&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=E4572E&text_color=8B8B9A&icon_color=E4572E&hide_border=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iurika-N-T-R&layout=compact&langs_count=8&bg_color=00000000&title_color=E4572E&text_color=8B8B9A&hide_border=true" alt="top languages" />
 </p>
 
 <p align="center">
@@ -102,7 +105,7 @@ draws in: Photoshop, Illustrator,
 
 ### `p.05` · get in touch
 
-Open to collaborations on **Android apps**, **AI automation** and **creative tools**:
+Open to collaborations on **Android apps**, **automation** and **creative tools**:
 anything that helps people spend less time fighting software.
 Reach me on [LinkedIn](https://www.linkedin.com/in/iurika-N.T.R), and if something I made
 saved you an afternoon, a [coffee ☕](https://www.buymeacoffee.com/iurika) is always appreciated.
