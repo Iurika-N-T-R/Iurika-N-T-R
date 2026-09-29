@@ -54,7 +54,7 @@ draws in: Photoshop, Illustrator,
 </tr>
 </table>
 
-### `p.02` · works on the wall
+### `p.02` · projects
 
 <p align="center">
   <a href="https://github.com/Iurika-N-T-R/OnlyFlows"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Iurika-N-T-R&repo=OnlyFlows&bg_color=00000000&title_color=E4572E&text_color=8B8B9A&icon_color=E4572E&hide_border=true" alt="OnlyFlows" /></a>
@@ -66,7 +66,7 @@ draws in: Photoshop, Illustrator,
 | [**OnlyFlows**](https://github.com/Iurika-N-T-R/OnlyFlows) | A free task & project manager inspired by Things 3, with more built in: goals, recurring tasks, time tracking, location reminders, RSS reader, widgets. Syncs between your devices over local Wi-Fi, no server needed. |
 | [**RandomFlows**](https://github.com/Iurika-N-T-R/RandomFlows) | Can't decide? Build your own lists and let the app pick: weighted choices, combined rolls, dice and a full history. No ads, no internet permission. |
 
-### `p.03` · the toolbox
+### `p.03` · tech stack
 
 | | |
 |:--|:--|
@@ -78,7 +78,7 @@ draws in: Photoshop, Illustrator,
 | **Ops** | <img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github&theme=dark" height="40" alt="ops" /> |
 | **Studio** | <img src="https://skillicons.dev/icons?i=ps,ai,figma,blender&theme=dark" height="40" alt="studio" /> |
 
-### `p.04` · ink on the page
+### `p.04` · activity
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Iurika-N-T-R&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=E4572E&text_color=8B8B9A&icon_color=E4572E&hide_border=true" alt="stats" />
@@ -92,7 +92,7 @@ draws in: Photoshop, Illustrator,
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Iurika-N-T-R/Iurika-N-T-R/output/ink-dark.svg" />
-    <img src="https://raw.githubusercontent.com/Iurika-N-T-R/Iurika-N-T-R/output/ink-light.svg" alt="an ink brush painting over my contribution graph" />
+    <img src="https://raw.githubusercontent.com/Iurika-N-T-R/Iurika-N-T-R/output/ink-light.svg" alt="contribution graph" />
   </picture>
 </p>
 
@@ -100,11 +100,11 @@ draws in: Photoshop, Illustrator,
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Iurika-N-T-R&theme=discord&no-bg=true&no-frame=true&margin-w=12&column=7" alt="trophies" /></a>
 </p>
 
-### `p.05` · leave a note in the margin
+### `p.05` · get in touch
 
 Open to collaborations on **Android apps**, **AI automation** and **creative tools**:
 anything that helps people spend less time fighting software.
 Reach me on [LinkedIn](https://www.linkedin.com/in/iurika-N.T.R), and if something I made
-saved you an afternoon, a [coffee ☕](https://www.buymeacoffee.com/iurika) keeps the ink flowing.
+saved you an afternoon, a [coffee ☕](https://www.buymeacoffee.com/iurika) is always appreciated.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:E4572E,45:2E2E4D,100:1B1B2F" width="100%" alt="" />
