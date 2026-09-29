@@ -1,10 +1,8 @@
-<!-- ink & code: sketchbook profile -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:1B1B2F,55:2E2E4D,100:E4572E&text=Iurika%20NTR&fontColor=F4EFE6&fontSize=64&fontAlignY=36&desc=code%20%C2%B7%20ink%20%C2%B7%20pixels&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Iurika NTR" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:1B1B2F,55:2E2E4D,100:E4572E&text=Iurika%20NTR&fontColor=F4EFE6&fontSize=64&fontAlignY=36&desc=Android%20apps%20%C2%B7%20AI%20automation%20%C2%B7%20creative%20tools&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Iurika NTR" />
 
 <p align="center">
   <a href="https://github.com/Iurika-N-T-R">
-    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=30&duration=2600&pause=900&color=E4572E&center=true&vCenter=true&width=680&height=50&lines=Hello+world%2C+I'm+Iurika+%E2%9C%92%EF%B8%8F;I+build+offline-first+Android+apps.;I+automate+the+boring+parts+with+AI+agents.;I+write+tools+for+artists.;Half+developer%2C+half+sketchbook." alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=30&duration=2600&pause=900&color=E4572E&center=true&vCenter=true&width=680&height=50&lines=Hello+world%2C+I'm+Iurika+%E2%9C%92%EF%B8%8F;I+build+offline-first+Android+apps.;I+automate+the+boring+parts+with+AI+agents.;I+write+tools+for+digital+artists." alt="typing intro" />
   </a>
 </p>
 
@@ -16,36 +14,40 @@
 
 ---
 
-### `p.01` · the artist's statement
+### `p.01` · about me
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-I live where **code meets the canvas**. I build Android apps that keep your data
-on your device, AI agents and automations that take repetitive work off people's
-hands, and tools that make creative work less painful.
+I'm a developer who also draws, so I build the software I wish I had.
 
-- 📱 &nbsp;**Shipping:** the *Flows*, a family of offline-first Android apps
-- 🤖 &nbsp;**Automating:** AI agents, n8n pipelines, batch image generation
-- 🖌️ &nbsp;**Sketching:** brush converters and render pipelines for artists
-- 🔒 &nbsp;**Belief:** no account, no cloud, no tracking unless you ask for it
+On **Android**, I make apps that work fully offline: no account, no cloud,
+your data stays on your phone and syncs over your own Wi-Fi.
+On the **automation** side, I build AI agents and n8n workflows that take
+repetitive work off people's hands: bots, lead pipelines, batch image
+generation. And as a **digital artist**, I write tools for other artists,
+like converting Photoshop brushes for mobile painting apps.
+
+- 📱 &nbsp;Offline-first Android apps with Kotlin & Jetpack Compose
+- 🤖 &nbsp;AI agents, Telegram bots and n8n automations
+- 🖌️ &nbsp;Tools and pipelines for digital artists
+- 🔒 &nbsp;Privacy by default: no tracking, no ads
 
 </td>
 <td width="42%" valign="top">
 
-```txt
-  ┌─ studio.notes ───────────────┐
-  │ medium   : code + ink        │
-  │ canvas   : Android · Web     │
-  │ palette  : Kotlin, Python,   │
-  │            TypeScript        │
-  │ engines  : FastAPI · n8n ·   │
-  │            Gemini            │
-  │ tools    : PS · AI · Figma · │
-  │            Blender           │
-  │ signature: ✒️  iurika        │
-  └──────────────────────────────┘
+```yaml
+name:     Iurika
+builds:   Android apps
+          AI agents & automations
+          tools for artists
+codes:    Kotlin, Python,
+          TypeScript
+runs on:  FastAPI, n8n, Gemini,
+          PostgreSQL
+draws in: Photoshop, Illustrator,
+          Figma, Blender
 ```
 
 </td>
@@ -59,31 +61,10 @@ hands, and tools that make creative work less painful.
   <a href="https://github.com/Iurika-N-T-R/RandomFlows"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Iurika-N-T-R&repo=RandomFlows&bg_color=00000000&title_color=E4572E&text_color=8B8B9A&icon_color=E4572E&hide_border=true" alt="RandomFlows" /></a>
 </p>
 
-#### 📱 The *Flows*: offline-first Android
-
-| Project | What it does | Stack |
-|:--|:--|:--|
-| [**OnlyFlows**](https://github.com/Iurika-N-T-R/OnlyFlows) | Task & project manager inspired by Things 3, going further: goals, recurring tasks, time tracking, geofence reminders, RSS, widgets. Peer-to-peer LAN sync, no server. | Kotlin · Compose · Room |
-| [**RandomFlows**](https://github.com/Iurika-N-T-R/RandomFlows) | Randomizer & decision maker on your own lists: weighted items, multi-list rolls, dice, full history. No ads, no internet permission. | Kotlin · Compose |
-| **ReFlows** 🔒 | Visual reference & mood-board manager, Eagle.app for Android phones and tablets. Masonry gallery, tags, color palettes, Syncthing sync. | Kotlin · Compose · Room |
-| **ImportFlows** 🔒 | Replaces a manual Excel workflow for importing goods from China: orders, live ¥ → Ar exchange rates, shipping, profit per product. | Kotlin · Compose · Room |
-
-#### 🤖 AI agents & automation
-
-| Project | What it does | Stack |
-|:--|:--|:--|
-| **TwinChat** 🔒 | AI agent platform: one agent guides content creators from asset collection to a validated script, another produces LinkedIn posts (caption, then image). Telegram and web chat, with a React dashboard. | FastAPI · PostgreSQL · React · Gemini |
-| **Acquisition Agent** 🔒 | n8n pipeline automating B2B lead acquisition: finds and enriches contacts, validates companies with AI, stores everything in a database. | n8n · Gemini · Lusha · Baserow |
-| **TwinModels** 🔒 | SaaS for batch AI image processing: upload, process and generate images at scale. | React · TypeScript · FastAPI |
-
-#### 🖌️ Tools for artists
-
-| Project | What it does | Stack |
-|:--|:--|:--|
-| **ABR → Infinite Painter** 🔒 | Converts Photoshop `.abr` brushes into Infinite Painter packs, including tips, spacing, jitter, pressure/tilt dynamics, textures and wet edges. Runs on desktop and Android (Termux). | TypeScript · Node |
-| **Render Variations** 🔒 | Composites rendered parts from several camera views into every product variation automatically. | Python · Pillow |
-
-<sub>🔒 private repository</sub>
+| Project | What it does |
+|:--|:--|
+| [**OnlyFlows**](https://github.com/Iurika-N-T-R/OnlyFlows) | A free task & project manager inspired by Things 3, with more built in: goals, recurring tasks, time tracking, location reminders, RSS reader, widgets. Syncs between your devices over local Wi-Fi, no server needed. |
+| [**RandomFlows**](https://github.com/Iurika-N-T-R/RandomFlows) | Can't decide? Build your own lists and let the app pick: weighted choices, combined rolls, dice and a full history. No ads, no internet permission. |
 
 ### `p.03` · the toolbox
 
