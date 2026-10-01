@@ -59,12 +59,14 @@ draws in: Photoshop, Illustrator,
 <p align="center">
   <a href="https://github.com/Iurika-N-T-R/OnlyFlows"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Iurika-N-T-R&repo=OnlyFlows&bg_color=00000000&title_color=E4572E&text_color=8B8B9A&icon_color=E4572E&hide_border=true" alt="OnlyFlows" /></a>
   <a href="https://github.com/Iurika-N-T-R/RandomFlows"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Iurika-N-T-R&repo=RandomFlows&bg_color=00000000&title_color=E4572E&text_color=8B8B9A&icon_color=E4572E&hide_border=true" alt="RandomFlows" /></a>
+  <a href="https://github.com/Iurika-N-T-R/ABR-to-PRZP-Brush-converter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Iurika-N-T-R&repo=ABR-to-PRZP-Brush-converter&bg_color=00000000&title_color=E4572E&text_color=8B8B9A&icon_color=E4572E&hide_border=true" alt="ABR to PRZP Brush Converter" /></a>
 </p>
 
 | Project | What it does |
 |:--|:--|
 | [**OnlyFlows**](https://github.com/Iurika-N-T-R/OnlyFlows) | A free task & project manager inspired by Things 3, with more built in: goals, recurring tasks, time tracking, location reminders, RSS reader, widgets. Syncs between your devices over local Wi-Fi, no server needed. |
 | [**RandomFlows**](https://github.com/Iurika-N-T-R/RandomFlows) | Can't decide? Build your own lists and let the app pick: weighted choices, combined rolls, dice and a full history. No ads, no internet permission. |
+| [**ABR → PRZP Brush Converter**](https://github.com/Iurika-N-T-R/ABR-to-PRZP-Brush-converter) | Converts Photoshop brushes (`.abr`) into Infinite Painter packs (`.przp`), keeping spacing, pressure and tilt dynamics, textures and more. Free, and it [runs in your browser](https://iurika-n-t-r.github.io/ABR-to-PRZP-Brush-converter/): nothing is uploaded. |
 
 ### `p.03` · tech stack
 
