@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:1B1B2F,55:2E2E4D,100:E4572E&text=Iurika%20NTR&fontColor=F4EFE6&fontSize=64&fontAlignY=36&desc=Android%20apps%20%C2%B7%20automations%20%26%20agents%20%C2%B7%20creative%20tools&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Iurika NTR" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:1B1B2F,55:2E2E4D,100:E4572E&text=Iurika%20NTR&fontColor=F4EFE6&fontSize=64&fontAlignY=36&desc=Android%20apps%20%C2%B7%20automations%20and%20agents%20%C2%B7%20creative%20tools&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Iurika NTR" />
 
 <p align="center">
   <a href="https://github.com/Iurika-N-T-R">
